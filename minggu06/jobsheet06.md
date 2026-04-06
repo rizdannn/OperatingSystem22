@@ -373,4 +373,4 @@ SIGCONT. Akhiri semua proses percobaan dengan pkill sleep.
 
 2. ![namafile](images/18dua.png)
 
-3. ![namafile](images
+3. ![namafile](images/18tiga.png)
